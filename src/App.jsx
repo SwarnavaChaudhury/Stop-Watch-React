@@ -66,7 +66,7 @@ function App() {
     <>
 
       <div className='h-screen w-full bg-stone-200 flex justify-center items-center'>
-        <div className='border border-stone-300 shadow-[0px_0px_5px_5px_#ccc] p-10 w-[500px]'>
+        <div className='border border-stone-300 bg-white shadow-[0px_0px_5px_5px_#ccc] p-10 w-[500px]'>
 
           <div className='text-5xl font-semibold flex justify-center gap-3'>
             <span className='w-[60px] text-center'>
